@@ -1,4 +1,4 @@
-# TNNLS
+# HSGR
 
 ## Framework
 ![TNNLS](framework-2.png)
