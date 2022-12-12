@@ -3,10 +3,6 @@
 ## Framework
 ![TNNLS](framework-2.png)
 
-Pretrained Model (to do)
-
-Dataset (to do)
-
 ## Experiment Result 
 
 ### Comparison Sample
